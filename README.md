@@ -1,6 +1,6 @@
-- 👋   Olá, aqui é o Paulo Martins!!
-- 👀  Cientista de Dados
-- 🌱  Background in  Economia, Demografia e Saúde.
+- 👋  Hi, my name is Paulo Martins!
+- 👀  Data Scientist
+- 🌱  Background in Economics, Health and Demography.
 
 Vamos conversar?
 
