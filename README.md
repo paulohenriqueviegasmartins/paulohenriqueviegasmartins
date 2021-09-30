@@ -1,4 +1,6 @@
-- ## Hi 👋, my name is Paulo Martins! 
+### Hey! 👋
+
+## I'm Paulo Martins!
 
 - :bulb: I'm a Data Scientist.
 
