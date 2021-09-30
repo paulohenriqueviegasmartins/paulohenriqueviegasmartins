@@ -30,6 +30,7 @@ Some of my skills:
 <div align="center">
   <a href="https://github.com/paulohenriqueviegasmartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohenriqueviegasmartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriqueviegasmartins&layout=compact&langs_count=7&theme=dark"/>
 
 
   ##
