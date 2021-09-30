@@ -17,10 +17,10 @@ Some of my skills:
 - Snowflake
 - MySQL
 - Python
-- Orchest Data Science (Pipelines de Dados)
+- Orchest Data Science
 - Linux
 - Docker
-- Power BI (Dashboards)
+- Power BI
 - Metabase
 - Google Data Studio
 - Git
