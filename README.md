@@ -13,6 +13,7 @@
 Some of my skills:
 
 - AWS
+- Databricks
 - Bigquery
 - Snowflake
 - MySQL
@@ -21,6 +22,7 @@ Some of my skills:
 - Linux
 - Docker
 - Power BI
+- Tableau
 - Metabase
 - Google Data Studio
 - Git
